@@ -1,8 +1,8 @@
-## Hi <img src="https://github.com/vahid454/vahid454/blob/main/Hi.gif" width="29px">, I'm [Vahid Mansuri!](vahidmansuri.github.io/portfolio/) 
+## Hi <img src="https://github.com/vahid454/vahid454/Hi.gif" width="29px">, I'm [Vahid Mansuri!](vahidmansuri.github.io/portfolio/) 
  
  
 
-<img align="right" src="https://github.com/vahid454/vahid454/blob/main/developer.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://github.com/vahid454/vahid454/developer.gif" alt="Coder GIF" width="500" height="400">
 
  <a href="https://github.com/vahid454">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Vahid's Dev" width="26"/>
