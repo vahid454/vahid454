@@ -1,4 +1,4 @@
-## Hi :wink: <img src=":wink:" width="29px">, I'm [Vahid Mansuri!](vahidmansuri.github.io/portfolio/) 
+## Hi :wink: I'm [Vahid Mansuri!](vahidmansuri.github.io/portfolio/) 
  
  
 
