@@ -16,9 +16,10 @@
 <a href="https://www.instagram.com/mr_right_454/">
   <img align="left" alt="Vahid's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://vahidmansuri.github.io/portfolio/">
+<!-- <a href="https://vahidmansuri.github.io/portfolio/">
   <img align="left" alt="Vahid's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
-</a><br><br>
+</a>
+--><br><br>
 
 
 
