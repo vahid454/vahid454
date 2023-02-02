@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/vahid454/vahid454/Hi.gif" width="29px">, I'm [Vahid Mansuri!](vahidmansuri.github.io/portfolio/) 
+## Hi :wink: <img src=":wink:" width="29px">, I'm [Vahid Mansuri!](vahidmansuri.github.io/portfolio/) 
  
  
 
