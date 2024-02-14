@@ -22,7 +22,7 @@
 --><br><br>
 
 
-- :telescope: I'm currently working as a Software Engineer at NCSI in IRIN3 Ledger Team;
+- :telescope: I'm currently working as a Software Developer with Hansen.
 - 💬 I love to contribute in Open source projects and connecting with different people:);
 - 📫 How to reach me: vahidmansuri702@gmail.com;
 <br><br><br><br>
