@@ -7,7 +7,7 @@
  <a href="https://github.com/vahid454">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Vahid's Dev" width="26"/>
 </a>
-<a href="https://twitter.com/fiend_op">
+<a href="https://twitter.com/mr_right_454">
   <img align="left" alt="Vahid Mansuri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vahid454/">
